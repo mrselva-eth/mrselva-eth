@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrselva-eth" alt="mrselva-eth" /></a> </p>
 
-<p align="left"> <a href="https://x.com/mrselva_eth" target="blank"><img src="https://img.shields.io/twitter/follow/selvaku82752172?logo=twitter&style=for-the-badge" alt="selvaku82752172" /></a> </p>
+<p align="left"> <a href="https://x.com/mrselva_eth" target="blank"><img src="https://img.shields.io/twitter/follow/mrselva_eth?logo=twitter&style=for-the-badge" alt="mrselva_eth" /></a> </p>
 
 - 🔭 I’m currently working on **OxLocker**
 
