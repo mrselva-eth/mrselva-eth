@@ -1,33 +1,81 @@
-<h1 align="center">Hi 👋, I'm Selvakumar S</h1>
-<h3 align="center">Blockchain-Focused Frontend Developer | Passionate about Web3, Smart Contracts, and AI-powered DApps</h3>
+# Selvakumar S
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrselva-eth&label=Profile%20views&color=0e75b6&style=flat" alt="mrselva-eth" /> </p>
+**Blockchain Application Developer**  
+Web3 • DeFi • Zero-Knowledge • AI Agents
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)"><img src="https://github-profile-trophy.vercel.app/?username=mrselva-eth" alt="mrselva-eth" /></a> </p>
+I build decentralized applications, smart contracts, and autonomous on-chain systems.
+My work spans **DeFi protocols, ZK proof pipelines, AI-driven agents, and blockchain infrastructure**.
 
-<p align="left"> <a href="https://x.com/mrselva_eth" target="blank"><img src="https://img.shields.io/twitter/follow/mrselva_eth?logo=twitter&style=for-the-badge" alt="mrselva_eth" /></a> </p>
+---
 
-- 🔭 I’m currently working on **OxLocker**
+## What I’m Working On
 
-- 🌱 I’m currently learning **More Code Languages**
+- **0xLocker** – Decentralized encrypted document storage with ownership & permission control  
+  *(Solidity, IPFS, Hardhat, Ethereum)*
 
-- 👯 I’m looking to collaborate on **Crypto Bank**
+- **AI Trading Agent** – Autonomous agent that parses messages and executes swaps & staking  
+  *(Base L2, Uniswap v4, Compound, Foundry, XMTP)*
 
-- 🤝 I’m looking for help with **WEB 3 / Blockchain Dev**
+- **zkVerify Relayer CLI (Private)** – Automated Groth16 proof generation & submission  
+  *(Circom, SnarkJS, Node.js, Horizen Testnet)*
 
-- 📫 How to reach me **mrselva.eth@gmail.com**
+- **Cookie Jar V3** – Shared on-chain fund management with NFT-gated access  
+  *(Next.js, Solidity, Ethers.js, wagmi)*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/mrselva_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrselva_eth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrselvadoteth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrselvadoteth" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Technical Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrselva-eth&show_icons=true&locale=en&layout=compact" alt="mrselva-eth" /></p>
+**Blockchain & Web3**
+- Smart Contracts (Solidity)
+- DeFi Protocols (AMMs, staking, fund management)
+- Wallets, transactions, on-chain automation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrselva-eth&show_icons=true&locale=en" alt="mrselva-eth" /></p>
+**Zero-Knowledge**
+- Groth16 proofs
+- Circom / SnarkJS
+- Proof verification & relayers
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrselva-eth&" alt="mrselva-eth" /></p>
+**Systems & Infra**
+- Rust for Bitcoin wallet creation & UTXO model
+- Node.js tooling & CLIs
+- IPFS & decentralized storage
+
+**AI + Crypto**
+- Autonomous agents with wallets
+- On-chain execution via AI decision layers
+
+---
+
+## Tech Stack
+
+**Languages**
+- Solidity
+- Rust
+- TypeScript / JavaScript
+- Python
+- SQL
+
+**Frameworks & Tools**
+- React, Next.js, Node.js
+- Hardhat, Foundry
+- Ethers.js, wagmi
+- Docker, Linux
+- IPFS
+
+---
+
+## Experience Snapshot
+
+- Blockchain Developer (Remote) – AI-powered Web3 products
+- Blockchain Developer Trainee – Rust-based wallet & Bitcoin internals
+- 6+ years in blockchain ecosystem (node running, testing, community, freelancing)
+
+---
+
+## Contact
+
+- Email: **mrselva.eth@gmail.com**
+- X (Twitter): https://x.com/mrselva_eth
+- LinkedIn: https://linkedin.com/in/mrselvadoteth
+- GitHub: https://github.com/mrselva-eth
